@@ -39,7 +39,7 @@
   
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harinandan123&show_icons=true&locale=en" alt="harinandan123" /></p>
   
-<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=Ahmed-dev-dragon&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false" alt="harinandan123" /></p>
+<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=harinandan123&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false" alt="harinandan123" /></p>
  
 
 
