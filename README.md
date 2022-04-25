@@ -14,8 +14,7 @@
 - 👀 I’m interested in CTF's,Docker,Cybersecurity,Ethical Hacking,Html and Css (If you consider them as programming languages :)),Football,Python etc
 - 🌱 I’m currently learning Ethical Hacking,Docker etc
 - 💞️ I’m looking to collaborate on Python Games,webpages etc
-- 📫 How to reach me: Discord,my contacts and comment on my repo's! (I will try to reply 😅)
-- Btw, it would be very nice if you could also join my Discord Server 😁
+- 📫 How to reach me: My contacts and comment on my repo's! (I will try to reply 😅)
 - ⚡ Fun fact **You are reading this :)**
 - All my contacts are below :)
 - My website :) = https://harinandan123.netlify.app/
@@ -23,12 +22,10 @@
 
 ## 📱 Contact Me Here :-
 <a href="mailto:harinandanjp@icloud.com"><img src="https://www.freepnglogos.com/uploads/email-png/blue-email-box-circle-png-transparent-icon-2.png" width="40" height="40"></a>
-<a href="https://discord.com/users/904583812816719892/"><img src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" width="40" height="40"></a>
 <a href="https://join.skype.com/invite/vZXtkEnSWIem"><img src="https://cdn-icons-png.flaticon.com/128/1384/1384058.png" width="40" height="40"></a>
 <a href="https://github.com/harinandan123"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40"></a>
 <a href="https://stackoverflow.com/users/18399106/soundwave"><img src="https://cdn-icons-png.flaticon.com/128/2111/2111628.png" height="40"></a>
 <a href="https://open.spotify.com/user/31roopetxsrt7zw2bzlcqogicvym"><img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Spotify-128.png" width="40" height="40"></a>
-<a href="https://discord.com/invite/NprZSb3vmX"><img src="https://codelog.network/wp-content/uploads/2020/08/JoinDiscord-768x432.png" width="80" height="40"></a>
 
 
 
