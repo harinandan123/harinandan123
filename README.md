@@ -7,7 +7,9 @@
 
 <h1 align="center">Hello 👋, I'm Soundwave :)</h1>
 <h2 align="center">Thanks for visiting my profile :) </h2>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=harinandan123&label=Profile%20views&color=0e75b6&style=flat"/> </p>
+<h2 align="center"><a href="https://harinandan123.netlify.app/">My website :)</a>
+
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=harinandan123&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
 
 
@@ -17,7 +19,6 @@
 - 📫 How to reach me: My contacts and comment on my repo's! (I will try to reply 😅)
 - ⚡ Fun fact **You are reading this :)**
 - All my contacts are below :)
-- My website :) = https://harinandan123.netlify.app/
 
 
 ## 📱 Contact Me Here :-
